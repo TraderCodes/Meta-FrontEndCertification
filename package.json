@@ -1,0 +1,23 @@
+{
+  "name": "meta-frontendcertification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.bundle.min.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraderCodes/Meta-FrontEndCertification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TraderCodes/Meta-FrontEndCertification/issues"
+  },
+  "homepage": "https://github.com/TraderCodes/Meta-FrontEndCertification#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
